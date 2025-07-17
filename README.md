@@ -2,6 +2,7 @@
 - 🍎 Current Learner of the **Apple Developer Academy**.
 - 💻 Computer Science and Technology Engineer from **Tecnologico de Monterrey** (2024 grad)
 - 🎾 I'm passionate about tennis, padel, watching movies and learning new things every day!
+- 📚 Passion for projects related to education or language learning!
 
 ## Contact:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adrianfaz) [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/fazfaz7) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adrian.faz123@gmail.com) 
