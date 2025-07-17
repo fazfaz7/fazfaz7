@@ -17,7 +17,7 @@
 <div align="left">
 <a href="https://github.com/fazfaz7">
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazfaz7&theme=transparent" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rllaguno&theme=transparent" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rllaguno&theme=transparent" height="180em" />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rllaguno&theme=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazfaz7&theme=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fazfaz7&theme=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazfaz7&theme=transparent" height="180em" />
 </div>
