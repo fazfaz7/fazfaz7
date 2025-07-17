@@ -8,7 +8,7 @@
 * adrian.faz123@gmail.com
 
 ## Languages:
-[![Programming Languages](https://skillicons.dev/icons?i=swiftui,python,cpp,r,js)]()
+[![Programming Languages](https://skillicons.dev/icons?i=swift,python,cpp,r,js)]()
 
 ## Technologies:
 [![Technologies](https://skillicons.dev/icons?i=opencv,mongodb,mysql,postgres,nodejs,postman,aws,vscode,visualstudio,git,github,pycharm)](https://skillicons.dev)
