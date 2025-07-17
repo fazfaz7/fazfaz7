@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hey there! :)
+- 🍎 Current Learner of the **Apple Developer Academy**.
+- 💻 Computer Science and Technology Engineer from **Tecnologico de Monterrey** (2024 grad)
+- 🎾 I'm passionate about tennis, padel, watching movies and learning new things every day!
 
-<!--
-**fazfaz7/fazfaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adrianfaz) [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/fazfaz7) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adrian.faz123@gmail.com) 
+* adrian.faz123@gmail.com
 
-Here are some ideas to get you started:
+## Languages:
+[![Programming Languages](https://skillicons.dev/icons?i=swift,python,cpp,r,js)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies:
+[![Technologies](https://skillicons.dev/icons?i=ros,opencv,docker,mysql,postgres,nodejs,postman,aws,vscode,visualstudio,git,github,figma,blender,obsidian,markdown,apple,windows,linux,ubuntu,raspberrypi)](https://skillicons.dev)
+
+## Overview:
+<div align="left">
+<a href="https://github.com/rllaguno">
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rllaguno&theme=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rllaguno&theme=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rllaguno&theme=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rllaguno&theme=transparent" height="180em" />
+</div>
