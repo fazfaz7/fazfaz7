@@ -11,7 +11,7 @@
 [![Programming Languages](https://skillicons.dev/icons?i=swift,python,cpp,r,js,vue,prisma)]()
 
 ## Technologies:
-[![Technologies](https://skillicons.dev/icons?i=opencv,mongodb,mysql,postgres,nodejs,postman,aws,vscode,visualstudio,git,github,pycharm)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=opencv,mongodb,mysql,postgres,nodejs,postman,aws,vscode,visualstudio,git,github,pycharm,flask,fastapi)](https://skillicons.dev)
 
 ## Overview:
 <div align="left">
